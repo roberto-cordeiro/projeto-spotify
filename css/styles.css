@@ -145,7 +145,7 @@ h3 {
     font-weight: 700;
     letter-spacing: -0.04;        
 }
-
+/* Media Query */
 
 /* Extra small devices (portrait phones, less than 576px)*/
 @media (max-width: 575.98px) { 
